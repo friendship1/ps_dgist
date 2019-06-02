@@ -6,6 +6,7 @@
  #### 크롤링 부분에서는,
  - requests
  - pymysql
+ - BeautifulSoup
  
   을 가져다 썼으며, 
  #### 보여주기 부분에서는,
